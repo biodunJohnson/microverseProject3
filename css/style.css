@@ -3,3 +3,9 @@
       background-color: lightblue;
     }
   }
+  #welcome-section {
+    height:100vh;
+    }
+#navbar{
+  position: absolute;
+}    
